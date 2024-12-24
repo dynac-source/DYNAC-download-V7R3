@@ -25,7 +25,7 @@ DYNAC source, data, plot and help files (for LINUX/MAC, tar/gz format) [dynacv7r
 
 **DYNAC V7R3 (INDIVIDUAL FILES)**  
 DYNAC User Guide (PDF format) [dynac_UG.pdf](https://github.com/dynac-source/DYNAC-download-V7R3/blob/main/dynac_UG.pdf)  
-DYNAC input file (example) for an electron gun (text format) [egun_example2.in](https://github.com/dynac-source/DYNAC-download-V7R3/blob/main/egun_example2.in)  
+DYNAC input file (example) for an electron gun (text format) [egun_example2.in](https://github.com/dynac-source/DYNAC-download/blob/main/egun_example2.in)  
 DYNAC input file (example) for describing the field in an electron gun (text format; to be used with the egun example above) [egun_field.txt](https://github.com/dynac-source/DYNAC-download/files/6633699/egun_field.txt)  
 DYNAC input file for the SNS H- MEBT (Medium Energy Beam Transport) line and DTL Tank 1 (text format) [sns_mebt_dtl1.in](https://github.com/dynac-source/DYNAC-download/blob/main/sns_mebt_dtl1.in)  
 DYNAC source (for WINDOWS, ZIP format) [dynacv7r3_w_source.zip](https://github.com/dynac-source/DYNAC-download-V7R3/blob/main/dynacv7r3_w_source.zip)  
